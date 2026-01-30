@@ -25,7 +25,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 7033583872504871512}
-    m_Duration: 10
+    m_Duration: 6
     m_TimeScale: 1
     m_ParentTrack: {fileID: -1692798410184461952}
     m_EaseInDuration: 0
@@ -58,25 +58,7 @@ MonoBehaviour:
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -91,16 +73,16 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: CinemachineCamera
   - m_Version: 1
-    m_Start: 10
+    m_Start: 6
     m_ClipIn: 0
     m_Asset: {fileID: 5700833736474402112}
-    m_Duration: 6.050000000000001
+    m_Duration: 6.116666666666667
     m_TimeScale: 1
     m_ParentTrack: {fileID: -1692798410184461952}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: -1
-    m_BlendOutDuration: 1.7333333333333343
+    m_BlendOutDuration: 5.050000000000001
     m_MixInCurve:
       serializedVersion: 2
       m_Curve: []
@@ -142,15 +124,15 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: CinemachineCamera-Dolly 1
   - m_Version: 1
-    m_Start: 14.316666666666666
+    m_Start: 7.066666666666666
     m_ClipIn: 0
     m_Asset: {fileID: 5274501130830940791}
-    m_Duration: 12.216666666666665
+    m_Duration: 9.933333333333334
     m_TimeScale: 1
     m_ParentTrack: {fileID: -1692798410184461952}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 1.7333333333333343
+    m_BlendInDuration: 5.050000000000001
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
@@ -211,16 +193,16 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: CinemachineCamera-Dolly2
   - m_Version: 1
-    m_Start: 26.533333333333335
+    m_Start: 17
     m_ClipIn: 0
     m_Asset: {fileID: 2593928290609923065}
-    m_Duration: 9.766666666666662
+    m_Duration: 15
     m_TimeScale: 1
     m_ParentTrack: {fileID: -1692798410184461952}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: -1
-    m_BlendOutDuration: 9.766666666666662
+    m_BlendOutDuration: 15
     m_MixInCurve:
       serializedVersion: 2
       m_Curve:
@@ -247,25 +229,7 @@ MonoBehaviour:
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -280,37 +244,19 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: CinemachineCamera-Slow Dolly 1
   - m_Version: 1
-    m_Start: 26.533333333333335
+    m_Start: 17
     m_ClipIn: 0
     m_Asset: {fileID: 9089097133087990817}
-    m_Duration: 12.266666666666662
+    m_Duration: 17
     m_TimeScale: 1
     m_ParentTrack: {fileID: -1692798410184461952}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 9.766666666666662
+    m_BlendInDuration: 15
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -427,10 +373,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 3.2999999999999994
+    m_Start: 1.4666666666666666
     m_ClipIn: 0
-    m_Asset: {fileID: 5829982650575059197}
-    m_Duration: 11.016666666666667
+    m_Asset: {fileID: 6708264906788810097}
+    m_Duration: 6.949999999999998
     m_TimeScale: 1
     m_ParentTrack: {fileID: 5575822373822268309}
     m_EaseInDuration: 0
@@ -493,8 +439,8 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 3.2999999999999994
-    m_DisplayName: Door
+    m_PreExtrapolationTime: 1.4666666666666666
+    m_DisplayName: DoorOpenAnimation
   m_Markers:
     m_Objects: []
   m_InfiniteClipPreExtrapolation: 1
@@ -531,7 +477,7 @@ MonoBehaviour:
   VirtualCamera:
     exposedName: 89d771f4fce644345b6fd5ab08ccf328
     defaultValue: {fileID: 0}
---- !u!114 &5829982650575059197
+--- !u!114 &6708264906788810097
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -543,7 +489,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
   m_Name: Recorded
   m_EditorClassIdentifier: Unity.Timeline::UnityEngine.Timeline.AnimationPlayableAsset
-  m_Clip: {fileID: 8513621819060434738}
+  m_Clip: {fileID: 8288051083222823175}
   m_Position: {x: 1.24, y: 2.29, z: 4.33}
   m_EulerAngles: {x: 0, y: 0, z: -1.4330308e-10}
   m_UseTrackMatchFields: 1
@@ -569,7 +515,7 @@ MonoBehaviour:
   VirtualCamera:
     exposedName: 29fa7f3e273214d4ab0fd3f384110c5c
     defaultValue: {fileID: 0}
---- !u!74 &8513621819060434738
+--- !u!74 &8288051083222823175
 AnimationClip:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -588,8 +534,8 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0
-        value: {x: 0, y: 0, z: 0}
+        time: 0.5166667
+        value: {x: 0, y: 0, z: -0.51}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -597,8 +543,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 11.016666
-        value: {x: 0, y: 9.68, z: 0}
+        time: 8.066668
+        value: {x: 0, y: 8.87, z: -0.51}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -634,7 +580,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 11.016666
+    m_StopTime: 8.066668
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -655,7 +601,7 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0
+        time: 0.5166667
         value: 0
         inSlope: 0
         outSlope: 0
@@ -664,7 +610,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 11.016666
+        time: 8.066668
         value: 0
         inSlope: 0
         outSlope: 0
@@ -685,7 +631,7 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0
+        time: 0.5166667
         value: 0
         inSlope: 0
         outSlope: 0
@@ -694,8 +640,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 11.016666
-        value: 9.68
+        time: 8.066668
+        value: 8.87
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -715,8 +661,8 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0
-        value: 0
+        time: 0.5166667
+        value: -0.51
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -724,8 +670,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 11.016666
-        value: 0
+        time: 8.066668
+        value: -0.51
         inSlope: 0
         outSlope: 0
         tangentMode: 136
