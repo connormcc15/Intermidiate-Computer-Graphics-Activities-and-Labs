@@ -318,6 +318,10 @@ PlayableDirector:
     value: {fileID: 1459712111}
   m_ExposedReferences:
     m_References:
+    - 0f765dbb21df5714e816e5188eee177f: {fileID: 1156212391}
+    - d216037062a8edd438a6d16f8d43f328: {fileID: 157026667}
+    - f57fd803411f646488d02f599696ec9d: {fileID: 816961145}
+    - 00641641a68f1fe449d96adfaf559322: {fileID: 630088135}
     - 1e80da488b580e24b9f13d71ae6c74b1: {fileID: 157026667}
 --- !u!1 &630088133
 GameObject:
