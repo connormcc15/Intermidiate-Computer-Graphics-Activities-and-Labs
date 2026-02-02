@@ -8,3 +8,5 @@ Activity 1: Recreated five materials shown in the lecture and then created a Env
 Activity 2: Attempted to recreate the dolly zoom effect using cinemachine in unity.
 
 Activity 3: Recreated the portion of the opening shot of The Legend of Zelda: BOTW using cinemachine cameras. 
+
+Lab 1: Created a 10-15 second video with all the requirements met to complete the lab
