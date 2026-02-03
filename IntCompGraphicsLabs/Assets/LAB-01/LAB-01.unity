@@ -795,13 +795,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1084694039}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.05614258, y: 0.9341255, z: -0.3089324, w: 0.16975954}
-  m_LocalPosition: {x: -69.7, y: 176.3, z: 81.7}
+  m_LocalRotation: {x: 0.09002119, y: 0.90917325, z: -0.26672235, w: 0.30685413}
+  m_LocalPosition: {x: 77, y: 146.3, z: -0.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 584805909}
-  m_LocalEulerAnglesHint: {x: -0.000006405926, y: 0.000003177954, z: -0.000001091841}
+  m_LocalEulerAnglesHint: {x: -0.000002083748, y: 0.000001868151, z: -0.00000139109}
 --- !u!95 &1084694042
 Animator:
   serializedVersion: 7
@@ -832,6 +832,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 545985195148329240, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9604067
+      objectReference: {fileID: 0}
+    - target: {fileID: 545985195148329240, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.2786018
+      objectReference: {fileID: 0}
+    - target: {fileID: 545985195148329240, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.00000020160157
+      objectReference: {fileID: 0}
+    - target: {fileID: 545985195148329240, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.0000010997076
+      objectReference: {fileID: 0}
+    - target: {fileID: 545985195148329240, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 545985195148329240, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 545985195148329240, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 629840107522184909, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.6686324
@@ -971,6 +999,34 @@ PrefabInstance:
     - target: {fileID: 3722463196644155866, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.206
+      objectReference: {fileID: 0}
+    - target: {fileID: 4157696140815764520, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9604067
+      objectReference: {fileID: 0}
+    - target: {fileID: 4157696140815764520, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.2786018
+      objectReference: {fileID: 0}
+    - target: {fileID: 4157696140815764520, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.00000020160158
+      objectReference: {fileID: 0}
+    - target: {fileID: 4157696140815764520, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.0000010997077
+      objectReference: {fileID: 0}
+    - target: {fileID: 4157696140815764520, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4157696140815764520, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4157696140815764520, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6511838185425321578, guid: 4534b9cc6330aed499be54b02abf5283, type: 3}
       propertyPath: m_LocalRotation.w
