@@ -10,5 +10,7 @@ Activity 2: Attempted to recreate the dolly zoom effect using cinemachine in uni
 Activity 3: Recreated the portion of the opening shot of The Legend of Zelda: BOTW using cinemachine cameras. 
 
 Lab 1: Created a video showcasing five different shots using 5 seperate cameras, two blends between cameras, 1 tracked target, and some non linear camera movement.
+
 Link to Video: https://youtu.be/BwodrT_YDcg 
+
 Link to ShotList: https://docs.google.com/spreadsheets/d/1KcBCuoiQFrcbmANrdR68V4ZCYayiU6SytBIqDGVYV6I/edit?usp=sharing 
