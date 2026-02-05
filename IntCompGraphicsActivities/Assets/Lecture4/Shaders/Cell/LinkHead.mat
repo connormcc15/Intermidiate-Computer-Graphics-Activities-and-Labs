@@ -8,8 +8,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: LinkHead
-  m_Shader: {fileID: -6465566751694194690, guid: aea57e3e3c96345418e1c36dba545145, type: 3}
-  m_Parent: {fileID: 2100000, guid: badeccb9cd67bf24789f0fd791552209, type: 2}
+  m_Shader: {fileID: -6465566751694194690, guid: ad4aef20660fb0d4ea5959859584ef4a, type: 3}
+  m_Parent: {fileID: 2100000, guid: 2d9fb20f5aee23d47a6b29b38f2f92fd, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -29,12 +29,12 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats:
-    - _glossiness: 0.5
-    m_Colors: []
+    m_Floats: []
+    m_Colors:
+    - _Color: {r: 0.47058824, g: 0.3137255, b: 0, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &944140003828103333
+--- !u!114 &940470583712045742
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

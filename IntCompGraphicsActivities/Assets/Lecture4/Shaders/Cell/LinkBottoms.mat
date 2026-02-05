@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: LinkHead
-  m_Shader: {fileID: -6465566751694194690, guid: aea57e3e3c96345418e1c36dba545145, type: 3}
-  m_Parent: {fileID: 2100000, guid: badeccb9cd67bf24789f0fd791552209, type: 2}
+  m_Name: LinkBottoms
+  m_Shader: {fileID: -6465566751694194690, guid: ad4aef20660fb0d4ea5959859584ef4a, type: 3}
+  m_Parent: {fileID: 2100000, guid: 2d9fb20f5aee23d47a6b29b38f2f92fd, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -25,16 +25,17 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _LinkTexture:
-        m_Texture: {fileID: 2800000, guid: 01522c3b47055487f9afa0523cf3aec1, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6923ad11dfbe845ccb350be324891998, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _glossiness: 0.5
-    m_Colors: []
+    - _RimPower: 10
+    m_Colors:
+    - _Color: {r: 0.47058824, g: 0.3137255, b: 0, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &944140003828103333
+--- !u!114 &9196044508088179970
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
