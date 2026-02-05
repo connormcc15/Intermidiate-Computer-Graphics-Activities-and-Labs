@@ -317,7 +317,7 @@ GameObject:
   - component: {fileID: 849466309}
   - component: {fileID: 849466308}
   m_Layer: 0
-  m_Name: Directional Light
+  m_Name: Directional Light-NoShadow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -919,7 +919,7 @@ SceneRoots:
   - {fileID: 1447084408}
   - {fileID: 931867879}
   - {fileID: 996122761}
+  - {fileID: 849466310}
   - {fileID: 445791471}
   - {fileID: 559664926}
   - {fileID: 1936509392}
-  - {fileID: 849466310}
