@@ -43,6 +43,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _QueueControl: 0
     - _RimPower: 10
     m_Colors:
     - _RimColor: {r: 0.7058823, g: 0.5372549, b: 0, a: 1}
