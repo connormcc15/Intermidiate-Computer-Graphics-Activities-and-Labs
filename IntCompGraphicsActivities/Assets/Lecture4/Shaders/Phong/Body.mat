@@ -32,7 +32,7 @@ Material:
     m_Floats:
     - _glossiness: 10
     m_Colors:
-    - _Colour: {r: 1, g: 0, b: 0.13017368, a: 1}
+    - _Colour: {r: 0, g: 0.8113208, b: 0.1686274, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &2020580555377672889
