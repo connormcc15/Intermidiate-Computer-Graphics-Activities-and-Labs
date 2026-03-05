@@ -28,7 +28,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.25
-        value: {x: -18.399, y: 6.164, z: 65.508}
+        value: {x: -18.399, y: 6.164, z: 90.43167}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -62,7 +62,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.25
-        value: {x: -6.296, y: -2.518, z: -69.308}
+        value: {x: -6.296, y: -2.518, z: -97.490105}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -96,7 +96,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.25
-        value: {x: -23.393, y: -57.683, z: -47.871}
+        value: {x: 9.046835, y: -100.93612, z: -47.871}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -130,7 +130,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.25
-        value: {x: -31.135, y: 72.074, z: 25.006}
+        value: {x: 25.810144, y: 72.074, z: 25.006}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -198,7 +198,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.25
-        value: {x: 31.495, y: -7.207, z: -11.47}
+        value: {x: 39.47058, y: -7.207, z: -11.47}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -773,7 +773,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.25
-        value: 65.508
+        value: 90.43167
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -890,7 +890,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.25
-        value: -69.308
+        value: -97.490105
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -929,7 +929,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.25
-        value: -23.393
+        value: 9.046835
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -968,7 +968,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.25
-        value: -57.683
+        value: -100.93612
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1163,7 +1163,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.25
-        value: -31.135
+        value: 25.810144
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1514,7 +1514,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.25
-        value: 31.495
+        value: 39.47058
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2012,7 +2012,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: WholeModel/Body1/Body2/Body3/Face/Bone.040/BottomBeak
+    path: WholeModel/Body1/Body2/Body3/Bone.013/Bone.014/RightArmMain/RightArm1
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -2024,7 +2024,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: WholeModel/Body1/Body2/Body3/Face/Bone.040/BottomBeak
+    path: WholeModel/Body1/Body2/Body3/Bone.013/Bone.014/RightArmMain/RightArm1
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -2036,7 +2036,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: WholeModel/Body1/Body2/Body3/Face/Bone.040/BottomBeak
+    path: WholeModel/Body1/Body2/Body3/Bone.013/Bone.014/RightArmMain/RightArm1
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -2048,7 +2048,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: WholeModel/LeftLegBody/LeftLegMain
+    path: WholeModel/Body1/Body2/Body3/Face/Bone.040/BottomBeak
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -2060,7 +2060,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: WholeModel/LeftLegBody/LeftLegMain
+    path: WholeModel/Body1/Body2/Body3/Face/Bone.040/BottomBeak
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -2072,7 +2072,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: WholeModel/LeftLegBody/LeftLegMain
+    path: WholeModel/Body1/Body2/Body3/Face/Bone.040/BottomBeak
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -2120,7 +2120,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: WholeModel/Body1/Body2/Body3/Bone.006/Bone.007/LeftArmMain/LeftArm1
+    path: WholeModel/LeftLegBody/LeftLegMain
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -2132,7 +2132,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: WholeModel/Body1/Body2/Body3/Bone.006/Bone.007/LeftArmMain/LeftArm1
+    path: WholeModel/LeftLegBody/LeftLegMain
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -2144,7 +2144,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: WholeModel/Body1/Body2/Body3/Bone.006/Bone.007/LeftArmMain/LeftArm1
+    path: WholeModel/LeftLegBody/LeftLegMain
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -2156,7 +2156,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: WholeModel/Body1/Body2/Body3/Bone.013/Bone.014/RightArmMain/RightArm1
+    path: WholeModel/Body1/Body2/Body3/Bone.006/Bone.007/LeftArmMain/LeftArm1
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -2168,7 +2168,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: WholeModel/Body1/Body2/Body3/Bone.013/Bone.014/RightArmMain/RightArm1
+    path: WholeModel/Body1/Body2/Body3/Bone.006/Bone.007/LeftArmMain/LeftArm1
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -2180,7 +2180,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: WholeModel/Body1/Body2/Body3/Bone.013/Bone.014/RightArmMain/RightArm1
+    path: WholeModel/Body1/Body2/Body3/Bone.006/Bone.007/LeftArmMain/LeftArm1
     classID: 4
     script: {fileID: 0}
     flags: 0
