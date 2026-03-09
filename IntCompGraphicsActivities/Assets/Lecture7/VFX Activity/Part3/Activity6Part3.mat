@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Activity3
+  m_Name: Activity6Part3
   m_Shader: {fileID: -6465566751694194690, guid: dc27d12f1208d8f4c8cee4d490c03b97, type: 3}
   m_Parent: {fileID: -876546973899608171, guid: dc27d12f1208d8f4c8cee4d490c03b97, type: 3}
   m_ModifiedSerializedProperties: 0
@@ -38,12 +38,13 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Texture2D:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 43d2f79177b0a574eab656258a44aa6b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _noiseAmt: 5.02
-    m_Colors: []
+    - _QueueControl: 0
+    m_Colors:
+    - _ScrollSpeed: {r: 5, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
