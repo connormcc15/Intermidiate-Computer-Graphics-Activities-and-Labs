@@ -65,6 +65,7 @@ MonoBehaviour:
     atime6: 0
     atime7: 0
     m_Mode: 0
+    m_ColorSpace: -1
     m_NumColorKeys: 2
     m_NumAlphaKeys: 2
   _horizontalBottom:
@@ -94,6 +95,7 @@ MonoBehaviour:
     atime6: 0
     atime7: 0
     m_Mode: 0
+    m_ColorSpace: -1
     m_NumColorKeys: 5
     m_NumAlphaKeys: 2
   _texture: {fileID: 329046954307297690}
@@ -107,10 +109,8 @@ Texture2D:
   m_ImageContentsHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
-  m_ForcedFallbackFormat: 4
-  m_DownscaleFallback: 0
   m_IsAlphaChannelOptional: 0
-  serializedVersion: 2
+  serializedVersion: 4
   m_Width: 512
   m_Height: 512
   m_CompleteImageSize: 1048576
@@ -119,7 +119,8 @@ Texture2D:
   m_MipCount: 1
   m_IsReadable: 1
   m_IsPreProcessed: 0
-  m_IgnoreMasterTextureLimit: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
   m_StreamingMipmaps: 0
   m_StreamingMipmapsPriority: 0
   m_VTOnly: 0
