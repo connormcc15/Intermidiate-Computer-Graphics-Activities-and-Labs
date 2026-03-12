@@ -26,7 +26,7 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _DissolveAmt: 0.44
+    - _DissolveAmt: 0.399
     - _EdgeWidth: 10
     - _NoiseScale: 100
     - _QueueControl: 0
