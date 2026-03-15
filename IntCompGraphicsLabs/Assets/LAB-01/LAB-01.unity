@@ -236,12 +236,12 @@ GameObject:
   - component: {fileID: 302179010}
   - component: {fileID: 302179009}
   m_Layer: 0
-  m_Name: Global Volume 2
+  m_Name: Global Volume 2 - Warmer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &302179009
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -668,12 +668,12 @@ GameObject:
   - component: {fileID: 781953021}
   - component: {fileID: 781953020}
   m_Layer: 0
-  m_Name: Global Volume 3
+  m_Name: Global Volume 3 - Cooler
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &781953020
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -734,7 +734,7 @@ Transform:
   m_GameObject: {fileID: 816961143}
   serializedVersion: 2
   m_LocalRotation: {x: 0.0000000073950455, y: 4.5012433e-10, z: -4.418046e-10, w: 1}
-  m_LocalPosition: {x: 1036.8058, y: 948.9507, z: -401.4}
+  m_LocalPosition: {x: 150.23299, y: 231.65173, z: -134.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
