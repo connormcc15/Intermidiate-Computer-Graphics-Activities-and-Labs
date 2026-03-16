@@ -39,6 +39,7 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
+    - _QueueControl: 0
     - _speed: 5.55
     m_Colors: []
   m_BuildTextureStacks: []
